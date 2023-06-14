@@ -5,7 +5,7 @@ tagline: pyblock
 icon: 
 category: Development
 version: "Latest"
-port: 4000
+port: 6969
 description: >-
   PyBLOCK UI.
 
