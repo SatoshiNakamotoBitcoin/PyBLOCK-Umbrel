@@ -1,30 +1,27 @@
 manifestVersion: 1
-id: sparkles-hello-world
-name: Hello World
-tagline: Replace this tagline with your app's tagline
-icon: https://svgur.com/i/mvA.svg
+id: pyblock
+name: PyBLOCK
+tagline: pyblock
+icon: 
 category: Development
-version: "1.0.0"
+version: "Latest"
 port: 4000
 description: >-
-  Add your app's description here.
+  PyBLOCK UI.
 
-
-  You can also add newlines!
-
-developer: Umbrel
-website: https://umbrel.com
-submitter: Umbrel
-submission: https://github.com/getumbrel/umbrel-hello-world-app
-repo: https://github.com/getumbrel/umbrel-hello-world-app
-support: https://github.com/getumbrel/umbrel-hello-world-app/issues
+developer: PyBLOCK
+website: https://twitter.com/_PyBlock_
+submitter: PyBLOCK
+submission: 
+repo: https://github.com/curly60e/pyblock
+support: https://github.com/curly60e/pyblock
 gallery:
-  - https://i.imgur.com/yyVG0Jb.jpeg
-  - https://i.imgur.com/yyVG0Jb.jpeg
-  - https://i.imgur.com/yyVG0Jb.jpeg
+  - 
+  - 
+  - 
 releaseNotes: >-
-  Add what's new in the latest version of your app here.
+  PyBLOCK UI.
 dependencies: []
 path: ""
-defaultUsername: ""
-defaultPassword: ""
+defaultUsername: "Running"
+defaultPassword: "PyBLOCK"
